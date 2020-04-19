@@ -1,0 +1,15 @@
+wumpas style rpg
+
+
+roam around fight enemies.  goal find diamonds.
+player health- 30hp gain all health after fight win or loss. death lose 30exp loss. sheldon game over
+
+random ecounters/ fixed- weakness gives 50%, resist 20%
+	mods zombie 40%  25hp weekness melee, skelton 20% weakness 24hp ranged, creeper 15% 30hp weakness ranged one shot melee blow up lose X exp, spider 20% 15hp, sheldon 5**(win/ show diomnds) 40hp resist all if mirror action, lose 10hp due to teh BAZINGA combo
+
+cocomabt- melee 10 , ranged 8, block 80% taken some melee 100% arrow, flee lose exp (not sheldon, lose something). rock paper scissors, melee-> block, block->range, range->melee
+
+levels, upon leveking get to boost a status- each level gives 5 health, 2 to each damage, or 5% block. constant exp level 30exp per level, mobs give 10, sheldon 69 fleeing lose half exp/15
+
+
+
