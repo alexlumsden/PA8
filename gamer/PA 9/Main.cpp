@@ -4,7 +4,7 @@
 #include<iostream>
 
 int main() {
-	
+	// test
 	int area = 0, check = 0, newarea = 0, hassword = 0;
 	//Create Window
 	sf::RenderWindow window(sf::VideoMode(1280, 720), "MineCrap");
