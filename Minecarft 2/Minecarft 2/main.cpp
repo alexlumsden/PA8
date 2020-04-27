@@ -4,6 +4,8 @@
 
 int main()
 {
+	//testes
+
 	sf::RenderWindow window(sf::VideoMode(300, 300), "mincarft !");
 
 	while (window.isOpen())
