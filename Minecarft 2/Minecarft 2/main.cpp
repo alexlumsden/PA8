@@ -5,7 +5,7 @@
 int main()
 {
 	//testes
-
+	//Gamer
 	sf::RenderWindow window(sf::VideoMode(300, 300), "mincarft !");
 
 	while (window.isOpen())
